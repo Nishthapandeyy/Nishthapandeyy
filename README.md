@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nishtha Pandey</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-- 🔭 I’m currently working on **Tribute page**
+- 🔭 I’m currently working on **Rainfall prediction website**
 
-- 🌱 I’m currently learning **Full stack development**
+- 🌱 I’m currently learning **Data Science**
 
-- 👯 I’m looking to collaborate on **Project management tool**
+- 👯 I’m looking to collaborate on **Project management tools**
 
 - 🤝 I’m looking for help with **Blogging platform**
 
